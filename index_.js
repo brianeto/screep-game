@@ -1,5 +1,5 @@
 module.exports.loop = function() {
-    // Al iniciar creamos un creep
+    // Al iniciar creamos un Creep
     Game.spawns.Spawn1.createCreep([WORK, CARRY, MOVE], undefined, {
         working: true
     });
