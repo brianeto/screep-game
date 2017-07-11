@@ -35,6 +35,5 @@ module.exports.loop = function() {
                 creep.harvest(mine);
             }
         }
-        // TODO: construir unidades de recolecci´ón de recursos
     }
 }
